@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.Deferred", "Linq.Deferred\Linq.Deferred.csproj", "{784A1797-66EE-4700-A2FA-1530C75C6A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.Immediate", "Linq.Immediate\Linq.Immediate.csproj", "{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784A1797-66EE-4700-A2FA-1530C75C6A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784A1797-66EE-4700-A2FA-1530C75C6A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784A1797-66EE-4700-A2FA-1530C75C6A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784A1797-66EE-4700-A2FA-1530C75C6A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
