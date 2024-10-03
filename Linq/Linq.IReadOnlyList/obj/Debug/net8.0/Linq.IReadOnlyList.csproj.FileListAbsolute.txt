@@ -1,0 +1,15 @@
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\bin\Debug\net8.0\Linq.IReadOnlyList.exe
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\bin\Debug\net8.0\Linq.IReadOnlyList.deps.json
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\bin\Debug\net8.0\Linq.IReadOnlyList.runtimeconfig.json
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\bin\Debug\net8.0\Linq.IReadOnlyList.dll
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\bin\Debug\net8.0\Linq.IReadOnlyList.pdb
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\Linq.IReadOnlyList.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\Linq.IReadOnlyList.AssemblyInfoInputs.cache
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\Linq.IReadOnlyList.AssemblyInfo.cs
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\Linq.IReadOnlyList.csproj.CoreCompileInputs.cache
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\Linq.IReadOnlyList.sourcelink.json
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\Linq.IReadOnlyList.dll
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\refint\Linq.IReadOnlyList.dll
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\Linq.IReadOnlyList.pdb
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\Linq.IReadOnlyList.genruntimeconfig.cache
+D:\FPT Uni\PRN231\code\linq-info\Linq\Linq.IReadOnlyList\obj\Debug\net8.0\ref\Linq.IReadOnlyList.dll

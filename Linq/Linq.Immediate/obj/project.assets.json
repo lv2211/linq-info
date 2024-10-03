@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT Uni\\PRN231\\code\\Linq\\Linq.Immediate\\Linq.Immediate.csproj",
+      "projectUniqueName": "D:\\FPT Uni\\PRN231\\code\\linq-info\\Linq\\Linq.Immediate\\Linq.Immediate.csproj",
       "projectName": "Linq.Immediate",
-      "projectPath": "D:\\FPT Uni\\PRN231\\code\\Linq\\Linq.Immediate\\Linq.Immediate.csproj",
+      "projectPath": "D:\\FPT Uni\\PRN231\\code\\linq-info\\Linq\\Linq.Immediate\\Linq.Immediate.csproj",
       "packagesPath": "C:\\Users\\long.vu\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT Uni\\PRN231\\code\\Linq\\Linq.Immediate\\obj\\",
+      "outputPath": "D:\\FPT Uni\\PRN231\\code\\linq-info\\Linq\\Linq.Immediate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,7 +50,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

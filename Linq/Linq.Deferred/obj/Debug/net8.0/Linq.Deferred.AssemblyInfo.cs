@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Linq.Deferred")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d256c0d8afa960cd0d4b02ea65fc1804416cd4ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Linq.Deferred")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Linq.Deferred")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

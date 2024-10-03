@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.Deferred", "Linq.Deferred\Linq.Deferred.csproj", "{784A1797-66EE-4700-A2FA-1530C75C6A03}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq.Deferred", "Linq.Deferred\Linq.Deferred.csproj", "{784A1797-66EE-4700-A2FA-1530C75C6A03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.Immediate", "Linq.Immediate\Linq.Immediate.csproj", "{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq.Immediate", "Linq.Immediate\Linq.Immediate.csproj", "{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.IReadOnlyList", "Linq.IReadOnlyList\Linq.IReadOnlyList.csproj", "{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,12 @@ Global
 		{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
