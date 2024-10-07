@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Linq.IReadOnlyList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d256c0d8afa960cd0d4b02ea65fc1804416cd4ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bea4ea61813a1d7e01f730472261241b7baccfdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Linq.IReadOnlyList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Linq.IReadOnlyList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

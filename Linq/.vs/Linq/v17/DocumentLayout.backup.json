@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\FPT Uni\\PRN231\\code\\linq-info\\Linq\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}|Linq.IReadOnlyList\\Linq.IReadOnlyList.csproj|d:\\fpt uni\\prn231\\code\\linq-info\\linq\\linq.ireadonlylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}|Linq.IReadOnlyList\\Linq.IReadOnlyList.csproj|solutionrelative:linq.ireadonlylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT Uni\\PRN231\\code\\linq-info\\Linq\\Linq.IReadOnlyList\\Program.cs",
-              "RelativeDocumentMoniker": "Linq.IReadOnlyList\\Program.cs",
-              "ToolTip": "D:\\FPT Uni\\PRN231\\code\\linq-info\\Linq\\Linq.IReadOnlyList\\Program.cs",
-              "RelativeToolTip": "Linq.IReadOnlyList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:54:33.46Z",
-              "EditorCaption": ""
             }
           ]
         },

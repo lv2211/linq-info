@@ -1,0 +1,15 @@
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\bin\Debug\net8.0\InitKeyword.exe
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\bin\Debug\net8.0\InitKeyword.deps.json
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\bin\Debug\net8.0\InitKeyword.runtimeconfig.json
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\bin\Debug\net8.0\InitKeyword.dll
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\bin\Debug\net8.0\InitKeyword.pdb
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\InitKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\InitKeyword.AssemblyInfoInputs.cache
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\InitKeyword.AssemblyInfo.cs
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\InitKeyword.csproj.CoreCompileInputs.cache
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\InitKeyword.sourcelink.json
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\InitKeyword.dll
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\refint\InitKeyword.dll
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\InitKeyword.pdb
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\InitKeyword.genruntimeconfig.cache
+D:\FPT Uni\PRN231\code\linq-info\Linq\InitKeyword\obj\Debug\net8.0\ref\InitKeyword.dll

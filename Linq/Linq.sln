@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq.Deferred", "Linq.Defer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq.Immediate", "Linq.Immediate\Linq.Immediate.csproj", "{49CAD8FD-BF5F-40F8-8FC8-99F7FD79F1DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.IReadOnlyList", "Linq.IReadOnlyList\Linq.IReadOnlyList.csproj", "{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq.IReadOnlyList", "Linq.IReadOnlyList\Linq.IReadOnlyList.csproj", "{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitKeyword", "InitKeyword\InitKeyword.csproj", "{329912C8-B5DC-40BA-A741-7F1086E625F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,8 +29,15 @@ Global
 		{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E471AAC-8B38-4B6E-99D9-23D85EE67AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329912C8-B5DC-40BA-A741-7F1086E625F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329912C8-B5DC-40BA-A741-7F1086E625F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329912C8-B5DC-40BA-A741-7F1086E625F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329912C8-B5DC-40BA-A741-7F1086E625F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B93A52AE-D67D-4FFB-95F4-8D4BC28AA6DE}
 	EndGlobalSection
 EndGlobal
